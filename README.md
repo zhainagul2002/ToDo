@@ -13,5 +13,6 @@
 <p><i> • Color pallet.</i></p>
 <p><i> • Save drawings in Gallery.</i></p>
 <p><i>You can see all this details from the screenshots above:</i></p>
+<img url="https://github.com/zhainagul2002/ToDo/issues/1#issue-884134227">
 <p>Trello link: </p>
 <p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">LINK</a> ••</i></p>
