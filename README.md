@@ -18,3 +18,5 @@
 <p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">LINK</a> ••</i></p>
 <p>Figma link: </p>
 <p><i> •• <a href="https://www.figma.com/file/fcBVutxwOzV1fePU0UTk74/Untitled?node-id=0%3A1">LINK</a> ••</i></p>
+SCREENSHOT OF FIGMA
+![Снимок экрана (250)](https://user-images.githubusercontent.com/73569870/117714676-1ad3e700-b1f9-11eb-97ad-81fd00cf5830.png)
