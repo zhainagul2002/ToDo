@@ -20,3 +20,4 @@
 ![1](https://user-images.githubusercontent.com/73109762/117659808-37066280-b1be-11eb-836b-22502d4f2a6a.png)
 <p>Trello link: </p>
 <p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">LINK</a> ••</i></p>
+![5](https://user-images.githubusercontent.com/73109762/117660191-ad0ac980-b1be-11eb-9355-2adc9ea8207a.png)
