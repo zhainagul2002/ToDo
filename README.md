@@ -20,4 +20,4 @@
 <img src="Screenshots/4.png" width="90%" height="350">
 <img src="Screenshots/5.png" width="90%" height="350">
 <p>Trello link: </p>
-<p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">VIDEO</a> ••</i></p>
+<p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">LINK</a> ••</i></p>
