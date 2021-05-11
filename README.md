@@ -23,3 +23,15 @@
 
 
 ![Снимок экрана (252)](https://user-images.githubusercontent.com/73569870/117775320-36bca480-b25c-11eb-86d9-18e23ed23ae1.png)
+
+
+![Снимок экрана (70)](https://user-images.githubusercontent.com/73109762/117781633-acc40a00-b262-11eb-9d95-16fc6bb02153.png)
+![Снимок экрана (71)](https://user-images.githubusercontent.com/73109762/117781748-c7967e80-b262-11eb-8604-e0cd3c7f1407.png)
+![Снимок экрана (72)](https://user-images.githubusercontent.com/73109762/117781753-c8c7ab80-b262-11eb-9518-71ad4264ddf3.png)
+![Снимок экрана (73)](https://user-images.githubusercontent.com/73109762/117781755-c9604200-b262-11eb-968b-814c5bf68e22.png)
+![Снимок экрана (74)](https://user-images.githubusercontent.com/73109762/117781759-c9604200-b262-11eb-827a-2bce4bddde0b.png)
+![Снимок экрана (75)](https://user-images.githubusercontent.com/73109762/117781761-c9f8d880-b262-11eb-936d-b1039df27292.png)
+![Снимок экрана (76)](https://user-images.githubusercontent.com/73109762/117781763-c9f8d880-b262-11eb-9c47-8eb6c62d5284.png)
+![Снимок экрана (77)](https://user-images.githubusercontent.com/73109762/117781767-ca916f00-b262-11eb-8d44-0ef285ca7915.png)
+![Снимок экрана (78)](https://user-images.githubusercontent.com/73109762/117781770-cb2a0580-b262-11eb-8076-1b6f34ef38e0.png)
+![Снимок экрана (79)](https://user-images.githubusercontent.com/73109762/117781772-cb2a0580-b262-11eb-9381-5fffbd59687f.png)
