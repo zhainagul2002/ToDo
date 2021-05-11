@@ -14,7 +14,7 @@
 <p><i> • Save drawings in Gallery.</i></p>
 <p><i>You can see all this details from the screenshots above:</i></p>
 <img url="https://github.com/zhainagul2002/ToDo/issues/1#issue-884134227">
-<p>Trello link: </p>
+<p>Trello board link: </p>
 <p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">LINK</a> ••</i></p>
 <p>Figma link: </p>
 <p><i> •• <a href="https://www.figma.com/file/fcBVutxwOzV1fePU0UTk74/Untitled?node-id=0%3A1">LINK</a> ••</i></p>
