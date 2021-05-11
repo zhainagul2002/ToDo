@@ -14,11 +14,11 @@
 <p><i> • Save drawings in Gallery.</i></p>
 <p><i>You can see all this details from the screenshots above:</i></p>
 <img url="https://github.com/zhainagul2002/ToDo/issues/1#issue-884134227">
-<p><b><i>Trello board link: </i></b></p>
+<p>Trello board link: </p>
 <p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">LINK</a> ••</i></p>
-<p><b><i>Figma link: </i></b></p>
+<p>Figma link: </p>
 <p><i> •• <a href="https://www.figma.com/file/fcBVutxwOzV1fePU0UTk74/Untitled?node-id=0%3A1">LINK</a> ••</i></p>
 SCREENSHOT OF FIGMA
 
 
-![Снимок экрана (250)](https://user-images.githubusercontent.com/73569870/117714676-1ad3e700-b1f9-11eb-97ad-81fd00cf5830.png)
+![Снимок экрана (252)](https://user-images.githubusercontent.com/73569870/117775320-36bca480-b25c-11eb-86d9-18e23ed23ae1.png)
