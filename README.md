@@ -2,7 +2,6 @@
 <h2><b><i>Was created by: </i></b></h2>
 <p><b><i>Altynbek kyzy Zhainagul, Zhypargul Kubanova, Aruuke </i></b></p>
 <h6></h6>
-<p><i>Paint app is a simple application where you can draw your own drawings and paint them.</i></p>
 <p><i>This project was generated with JavaFX, CSS and Scene Builder.</i></p>
 <h2><b>Features</b></h2>
 <p><i> • Create Drawings (Obvious one :P).</i></p>
