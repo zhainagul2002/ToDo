@@ -3,12 +3,6 @@
 <p><b><i>Altynbek kyzy Zhainagul, Zhypargul Kubanova, Aruuke </i></b></p>
 <h6></h6>
 <p><i>This project was generated with JavaFX, CSS and Scene Builder.</i></p>
-<h2><b>Features</b></h2>
-<p><i> • Create Drawings (Obvious one :P).</i></p>
-<p><i> • Select different brush sizes. </i></p>
-<p><i> • Select your working areas width and height. </i></p>
-<p><i> • Color pallet.</i></p>
-<p><i> • Save drawings in Gallery.</i></p>
 <p><i>You can see all this details from the screenshots above:</i></p>
 <img url="https://github.com/zhainagul2002/ToDo/issues/1#issue-884134227">
 <p>Trello board link: </p>
